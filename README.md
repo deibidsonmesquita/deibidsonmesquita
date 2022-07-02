@@ -19,7 +19,7 @@
       <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
   </div>
   
-  <a href="https://lista.mercadolivre.com.br/_CustId_85011201?item_id=MLB1348017716">Portifólio de projetos a venda</a>
+  <a href="https://lista.mercadolivre.com.br/_CustId_85011201?item_id=MLB1348017716">Portfólio de projetos a venda</a>
 
 
 
