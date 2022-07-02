@@ -1,4 +1,5 @@
-### Olá, Bem vindo👋
+### Olá, Bem vindo(a)👋
+#### Sou Deibidson Mesquita, sinta-se a vontade para entrar em contato
 
 ### Conhecimentos nas tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://cdn.iconscout.com/icon/free/png-256/vuejs-1175052.png" width="40" height="40"/> <img src="https://icons-for-free.com/download-icon-vscode+icons+type+kotlin-1324451341295152742_256.png" width="40" height="40"/> <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" width="40" height="40"/> <img src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" width="40" height="40"/>
@@ -15,9 +16,8 @@
 </div>
 
   <div>
-      ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif)
+      <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
   </div>
-
 
 
 
